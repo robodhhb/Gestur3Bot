@@ -11,7 +11,7 @@ Entferneungswerten, je 16 pro IR-Sensor.  Das neuronale Netz hat ein versteckte 
 20 Neuronen und eine Ausgsbeschicht von 7 Neuronen. Pro Klasse (Geste) bestehen die Trainingsdaten aus 
 140 und die Testdaten aus 60 Merkmalsvektoren. 
 Im Repository befindet sich ein Modell mit 94,8% Klassifikationsgüte. Für weitere Informationen 
-zum Bau und Training des Roboters siehe die ersten beiden Ordner in diesem Repository.
+zum Bau und Training des Roboters siehe die ersten beiden Ordner in diesem Repository. Das Projekt ist ausführlich beschrieben im deutschen Magazin "Make" in der Ausgabe 6/2018.
 
 Welcome to the Gestur3Bot robot!
 
@@ -24,5 +24,6 @@ The training phase uses 140 feature vectors for each class (gesture) for the tra
 and 60 feature vectors for each class for the test data. 
 You can find a model with 94,8% validation accuracy 
 in this repository. Please see the first two folders of this repository for further information
-for the construction and training of the robot.  
+for the construction and training of the robot. This project is described in the issue 6/2018 of the German 
+Make magazine.
 
