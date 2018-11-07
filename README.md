@@ -7,8 +7,8 @@ Dieser Roboter kann mit 7 Gesten gesteuert werden, die ein Benutzer vor den zwei
 Das Video "Gestur3Bot SD" zeigt, wie ein Benutzer mit der Faust den Roboter steuert. 
 Die Gesten erkennt der Roboter mit Hilfe eines neuronales Netzes, das zuvor mit Trainingsdaten und einem Trainingsprogramm
 auf Basis von Keras und TensorFlow auf einem PC trainiert wurde. Der Merkmalsvektor besteht aus 32 
-Entferneungswerten, je 16 pro IR-Sensor.  Das neuronale Netz hat ein versteckte Schicht von
-20 Neuronen und eine Ausgsbeschicht von 7 Neuronen. Pro Klasse (Geste) bestehen die Trainingsdaten aus 
+Entfernungswerten, je 16 pro IR-Sensor.  Das neuronale Netz hat eine versteckte Schicht von
+20 Neuronen und eine Ausgabeschicht von 7 Neuronen. Pro Klasse (Geste) bestehen die Trainingsdaten aus 
 140 und die Testdaten aus 60 Merkmalsvektoren. 
 Im Repository befindet sich ein Modell mit 94,8% Klassifikationsgüte. Für weitere Informationen 
 zum Bau und Training des Roboters siehe die ersten beiden Ordner in diesem Repository. Das Projekt ist ausführlich beschrieben im deutschen Magazin "Make" in der Ausgabe 6/2018.
