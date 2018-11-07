@@ -2,6 +2,7 @@
 Software and construction manual for the Gestur3Bot Lego Mindstorms EV3 robot
 
 Willkommen beim Gestur3Bot Roboter! (see English version below)
+
 Dieser Roboter kann mit 7 Gesten gesteuert werden, die ein Benutzer vor den zwei Infrarotsensoren ausführt. 
 Das Video "Gestur3Bot SD" zeigt, wie ein Benutzer mit der Faust den Roboter steuert. 
 Die Gesten erkennt der Roboter mit Hilfe eines neuronales Netzes, das zuvor mit Trainingsdaten und einem Trainingsprogramm
@@ -13,6 +14,7 @@ Im Repository befindet sich ein Modell mit 94,8% Klassifikationsgüte. Für weit
 zum Bau und Training des Roboters siehe die ersten beiden Ordner in diesem Repository.
 
 Welcome to the Gestur3Bot robot!
+
 This robot can be controlled by 7 gestures, which a user performs in front of the two infra-red sensors
 of the robot. The video "Gestur3Bot SD" shows how a user controls the robot with a fist. The robot recognizes
 a gesture by using a neural network which has been trained with training data and a training program based on Keras and
