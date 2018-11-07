@@ -1,0 +1,65 @@
+(See English version below)
+------------------------
+Bauanleitung Gestur3Bot:
+------------------------
+
+Der Gestur3Bot ist im wesentlichen der GRIPP3R-Roboter mit einigen kleinen Veränderungen. 
+Man benötigt den Lego Mindstorms Baukasten 
+   - 31313 MINDSTORMS EV3
+   - einen zusätzlichen IR-Sensor, der im Lego Online Shop gekauft werden kann.
+   - sowie die Bauanleitung des GRIPP3R Roboters, die hier heruntergeladen werden kann:
+     https://www.lego.com/de-de/mindstorms/build-a-robot
+     (Es sollte die Datei 31313_GRIPP3R_2016.pdf sein)
+
+Der Bau des Roboters erfolgt mit der Bauanleitung wie folgt:
+   - Mission 1 wie beschrieben
+   - Mission 2 wie beschrieben
+   - Mission 3 wie beschrieben mit folgenden Änderungen:
+      -Schritt 37: Siehe die 3 Fotos in diesem Ordner
+      -Schritt 40 entfällt
+      -Schritt 45 entfällt
+      -Schritt 52 entfällt
+
+Falls Steine verlorengegangen sind, können sie auf folgender Website einzelne Steine
+nachbestellen: https://www.lego.com/de-de/service/replacementparts
+
+Überprüfen sie nach dem Bau des Roboters die Werte der beiden IR-Sensoren:
+Starten Sie die Lego SW auf dem PC und verbinden Sie den Roboter mit dem PC. 
+Wenn sich kein Hinderniss vor dem Roboter befindet sollten die IR-Sensoren
+Werte ungefähr im Bereich von 44 bis 56 liefern. Sollten die Werte
+davon abweichen müssen sie eigene Traings- und Testdaten erfassen und
+ein eigenes Modell mit dem Traingsprogramm erzeugen.
+
+
+-------------------------------
+Construction manual Gestur3Bot:
+-------------------------------
+
+GestureBot is a slightly modified GRIPP3R robot.
+You need the Lego Mindstorns EV3 set:
+   - 31313 MINDSTORMS EV3
+   - an additional IR sensor which you can buy in the Lego online shop
+   - the construction manual of the GRIPP3R robot which you can download here:
+     https://www.lego.com/de-de/mindstorms/build-a-robot
+     (It shall be the file 31313_GRIPP3R_2016.pdf)
+
+You build the robot as follows using the contruction manual:
+   - Mission 1 as described
+   - Mission 2 as described
+   - Mission 3 as described with the following modifications:
+        -Step 37: See the 3 pictures in this folder
+        -Step 40: to be omitted
+        -Step 45: to be omitted
+        -Step 52: to be omitted
+
+If you lost bricks you can order them here:
+https://www.lego.com/en-us/service/replacementparts
+
+After having built the robot please check the values of the two IR sensors
+with the Lego SW on PC. 
+If there is no object in front of the robot the measured values should be
+in the range from 44 to 56. If they differ you have to
+create you own training- and test-data and calculate a new model with the
+training program.
+
+
