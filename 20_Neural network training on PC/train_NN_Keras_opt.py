@@ -4,7 +4,7 @@
 # Tensorflow.  Die Architektur des NN ist 32-20-7
 # Der Adam-Optimizer wird verwendet. Während des 
 # Trainings wird nach jeder Epoche überprüft, ob
-# sich die Klassifikationsgüte (Value Accuracy) 
+# sich die Klassifikationsgüte (Validation Accuracy) 
 # verbessert hat. Falls ja, wird das bessere Model
 # mittels Checkpoints gesichert. So erhält man das
 # bestmögliche Model aus einem Programmlauf.
