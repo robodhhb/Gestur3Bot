@@ -7,6 +7,9 @@ Hinweis: Um eine hohen Erkennungsquote zu erzielen, sollte der Roboter vor eine 
 so dass das Licht von hinten auf den Roboter fällt. Die sieben Gesten zeigt Gestures.png. 
 Sie werden mit der Faust ausgeführt und sollten so schnell ausgeführt werden, wie das Video es zeigt.
 
+Bitte beachten: Die Batterien bzw. der Akku des Roboters sollten frisch bzw. gut geladen sein. 
+Bei zu geringer Spannung kann es vorkommen, dass die Sensoren falsche Werte liefern.
+
 ---English version---
 Installation:
 1. Install Gestur3Bot_V1.ev3 on the robot. 
@@ -15,5 +18,7 @@ Installation:
 
 Hint: To achieve a high accuracy, position the robot in a way that it gets daylight from behind.
 See Gestures.png for the seven gestures which are performed using your fist with a speed shown by the video. 
+
+Caution! If batteries or accumulator have low charge sensors may deliver wrong measures.
 
 The weights and biases files have an accuracy of 94,8% on 420 test data. 
