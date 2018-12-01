@@ -11,7 +11,7 @@ Voraussetzungen auf dem PC
 3. Library "TensorFlow" (1.8.0 oder höher)
    Installation mit der Eingabeaufforderung:
    pip3 install --upgrade tensorflow
-   Das Projekt ist mit der TensorFlow-Version 1.8 erfolgreich getestet.
+   Das Projekt ist mit der TensorFlow-Version 1.12.0 erfolgreich getestet.
 
 4. Library KERAS (2.1.3 oder höher)
    pip3 install keras 
@@ -76,7 +76,7 @@ Prerequisites on the PC
 3. Library "TensorFlow" (1.8.0 or higher)
    Installation with a command promot:
    pip3 install --upgrade tensorflow
-   This project is successfully tested with TensorFlow Version 1.8
+   This project is successfully tested with TensorFlow Version 1.12.0
 
 4. Library KERAS (2.1.3 or higher)
    pip3 install keras 
