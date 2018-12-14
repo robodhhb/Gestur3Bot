@@ -11,7 +11,7 @@ Entfernungswerten, je 16 pro IR-Sensor.  Das neuronale Netz hat eine versteckte 
 20 Neuronen und eine Ausgabeschicht von 7 Neuronen. Pro Klasse (Geste) bestehen die Trainingsdaten aus 
 140 und die Testdaten aus 60 Merkmalsvektoren. 
 Im Repository befindet sich ein Modell mit 94,8% Klassifikationsgüte. Für weitere Informationen 
-zum Bau und Training des Roboters siehe die ersten beiden Ordner in diesem Repository. Das Projekt ist ausführlich beschrieben im deutschen Magazin "Make" in der Ausgabe 6/2018 im Artikel "KI für Lego-Roboter", S. 48-54.
+zum Bau und Training des Roboters siehe die ersten beiden Ordner in diesem Repository. Das Projekt ist ausführlich beschrieben im deutschen Magazin "Make" in der Ausgabe 6/2018 im Artikel "KI für Lego-Roboter", S. 48-54 (https://www.heise.de/select/make/2018/6/1545122192077062)
 
 Welcome to the Gestur3Bot robot!
 
