@@ -11,7 +11,9 @@ Voraussetzungen auf dem PC
 3. Library "TensorFlow" (1.8.0 oder höher)
    Installation mit der Eingabeaufforderung:
    pip3 install --upgrade tensorflow
-   Das Projekt ist mit der TensorFlow-Version 1.12.0 erfolgreich getestet.
+   Das Projekt ist mit der TensorFlow-Version 1.15.0 erfolgreich getestet.
+   Für TensorFlow 2.X bitte train_NN_tfkeras_optTF2.py verwenden. 
+   Dann kann Schritt 4 entfallen.
 
 4. Library KERAS (2.1.3 oder höher)
    pip3 install keras 
@@ -28,6 +30,7 @@ Programme auf dem PC erfolgen: (Voraussetzung: Unterverzeichnis: /Data mit Train
  - train_NN_Keras_Tensorboard.py (Mitschrift des Trainingsverlaufes mittels Tensorboard
                                   Siehe Hinweise im Programmkopf) 
  - train_NN_Keras_opt.py         (Optimierte Implementierung, die das beste Modell eines Laufs festhält)
+ - train_NN_tfkeras_optTF2.py    Implementierung für TensorFlow 2.X
  
 Alle obigen Programme lesen folgende Dateinen aus dem /Data Verzeichnis:
    xTrain_Gesture0-6_980-32.csv
@@ -76,7 +79,9 @@ Prerequisites on the PC
 3. Library "TensorFlow" (1.8.0 or higher)
    Installation with a command promot:
    pip3 install --upgrade tensorflow
-   This project is successfully tested with TensorFlow Version 1.12.0
+   This project is successfully tested with TensorFlow Version 1.15.0
+   For TensorFlow 2.X use train_NN_tfkeras_optTF2.py
+   The next step can then be ommitted.
 
 4. Library KERAS (2.1.3 or higher)
    pip3 install keras 
@@ -91,6 +96,7 @@ Prerequisites: A /Data subdirectory with the training- and testdata files
  - train_NN_Keras.py             (Implementation with KERAS on basis of TensorFlow)
  - train_NN_Keras_Tensorboard.py (Implementation with KERAS using Tensorboard additionally) 
  - train_NN_Keras_opt.py         (Optimized Implementation, which saves the best model during training)
+ - train_NN_tfkeras_optTF2.py    Version for TensorFlow 2.X
    
  All programs above read the following files from the /Data subdirectory:
    xTrain_Gesture0-6_980-32.csv
