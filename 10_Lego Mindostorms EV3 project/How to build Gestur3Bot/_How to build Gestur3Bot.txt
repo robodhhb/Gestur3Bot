@@ -3,10 +3,10 @@
 Bauanleitung Gestur3Bot:
 ------------------------
 
-Der Gestur3Bot ist im wesentlichen der GRIPP3R-Roboter mit einigen kleinen Veränderungen. 
-Man benötigt den Lego Mindstorms Baukasten 
+Der Gestur3Bot ist im wesentlichen der GRIPP3R-Roboter mit einigen kleinen VerÃ¤nderungen. 
+Man benÃ¶tigt den Lego Mindstorms Baukasten 
    - 31313 MINDSTORMS EV3
-   - einen zusätzlichen IR-Sensor, der im Lego Online Shop gekauft werden kann.
+   - einen zusÃ¤tzlichen IR-Sensor, der im Lego Online Shop gekauft werden kann.
    - sowie die Bauanleitung des GRIPP3R Roboters, die hier heruntergeladen werden kann:
      https://www.lego.com/de-de/mindstorms/build-a-robot
      (Es sollte die Datei 31313_GRIPP3R_2016.pdf sein)
@@ -14,20 +14,22 @@ Man benötigt den Lego Mindstorms Baukasten
 Der Bau des Roboters erfolgt mit der Bauanleitung wie folgt:
    - Mission 1 wie beschrieben
    - Mission 2 wie beschrieben
-   - Mission 3 wie beschrieben mit folgenden Änderungen:
+   - Mission 3 wie beschrieben mit folgenden Ã„nderungen:
       -Schritt 37: Siehe die 3 Fotos in diesem Ordner
-      -Schritt 40 entfällt
-      -Schritt 45 entfällt
-      -Schritt 52 entfällt
+      -Schritt 40 entfÃ¤llt
+      -Schritt 45 entfÃ¤llt
+      -Schritt 52 entfÃ¤llt
+      
+Hinweis: Der Tastsensor des Greifarms muss an Port 2 und nicht an Port 1 angeschlossen werden. 
 
-Falls Steine verlorengegangen sind, können sie auf folgender Website einzelne Steine
+Falls Steine verlorengegangen sind, kÃ¶nnen sie auf folgender Website einzelne Steine
 nachbestellen: https://www.lego.com/de-de/service/replacementparts
 
-Überprüfen sie nach dem Bau des Roboters die Werte der beiden IR-Sensoren:
+ÃœberprÃ¼fen sie nach dem Bau des Roboters die Werte der beiden IR-Sensoren:
 Starten Sie die Lego SW auf dem PC und verbinden Sie den Roboter mit dem PC. 
 Wenn sich kein Hinderniss vor dem Roboter befindet sollten die IR-Sensoren
-Werte ungefähr im Bereich von 44 bis 56 liefern. Sollten die Werte
-davon abweichen müssen sie eigene Traings- und Testdaten erfassen und
+Werte ungefÃ¤hr im Bereich von 44 bis 56 liefern. Sollten die Werte
+davon abweichen mÃ¼ssen sie eigene Traings- und Testdaten erfassen und
 ein eigenes Modell mit dem Traingsprogramm erzeugen.
 
 
@@ -51,6 +53,8 @@ You build the robot as follows using the contruction manual:
         -Step 40: to be omitted
         -Step 45: to be omitted
         -Step 52: to be omitted
+        
+Hint: The touch-sensor has to be connected to port 2 and not to port 1.
 
 If you lost bricks you can order them here:
 https://www.lego.com/en-us/service/replacementparts
