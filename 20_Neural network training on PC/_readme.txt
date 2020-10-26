@@ -12,7 +12,7 @@ Voraussetzungen auf dem PC
    Installation mit der Eingabeaufforderung:
    pip3 install --upgrade tensorflow
    Das Projekt ist mit der TensorFlow-Version 1.15.0 erfolgreich getestet.
-   Für TensorFlow 2.X bitte train_NN_tfkeras_optTF2.py verwenden. 
+   Für TensorFlow 2.X bitte train_NN_tfkeras_optTF2.py verwenden (Getestet bis TF 2.3.0)
    Dann kann Schritt 4 entfallen.
 
 4. Library KERAS (2.1.3 oder höher)
@@ -80,7 +80,7 @@ Prerequisites on the PC
    Installation with a command promot:
    pip3 install --upgrade tensorflow
    This project is successfully tested with TensorFlow Version 1.15.0
-   For TensorFlow 2.X use train_NN_tfkeras_optTF2.py
+   For TensorFlow 2.X use train_NN_tfkeras_optTF2.py(Tested up to TF 2.3.0)
    The next step can then be ommitted.
 
 4. Library KERAS (2.1.3 or higher)
